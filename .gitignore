@@ -1,0 +1,8 @@
+# Create the file
+touch .gitignore
+
+# Clear/Create the gitignore file with all your rules
+echo "venv/" > .gitignore
+echo "*.pdf" >> .gitignore
+# Use quotes for the filename with spaces
+echo "\"A5 Optimization Human Preference.ipynb\"" >> .gitignore
