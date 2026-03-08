@@ -4,7 +4,11 @@
 [![Python-3.12](https://img.shields.io/badge/Python-3.12-blue.svg)](https://www.python.org/)
 [![License-Apache_2.0](https://img.shields.io/badge/License-Apache_2.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 
+---
 This project demonstrates the fine-tuning of a Large Language Model (LLM) using **Direct Preference Optimization (DPO)** to align model outputs with human preferences for truthfulness and accuracy.
+## 🔗 Model Repository
+The final trained weights and model card can be found on Hugging Face:
+👉 **[st126107/qwen2.5-truthful-dpo](https://huggingface.co/st126107/qwen2.5-truthful-dpo)**
 
 ---
 
