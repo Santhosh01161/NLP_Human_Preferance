@@ -86,4 +86,3 @@ $$\text{Win Rate} = \frac{\text{Wins} + (0.5 \times \text{Ties})}{\text{Total}} 
 * `.gitignore`: Configured to exclude `venv`, `pdfs`, and temporary files.
 
 ---
-<p align="center">Made with ❤️ for NLP Human Preference Alignment</p>
